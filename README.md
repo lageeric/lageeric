@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Eric Silva
 
-Me chamo Eric Silva, tenho 19 anos e atualmente estou cursando Ciência da Computação na UNA. Estou em busca de aprofundar meus conhecimentos em desenvolvimento de software e soluções tecnológicas.
+Me chamo Eric, tenho 19 anos e atualmente estou cursando Ciência da Computação na UNA. Estou em busca de aprofundar meus conhecimentos em desenvolvimento de software e soluções tecnológicas.
 
 ### Linguagens:
 
